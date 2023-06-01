@@ -57,7 +57,9 @@ You'll need either gitgui or replace git steps by downloading yourself the repo
 Install Java JDK 17
 ```
 apt update && apt install openjdk-17-jdk openjdk-17-jre
+```
 or on windows :
+```
 winget install Oracle.JDK.17
 ```
 
@@ -76,7 +78,9 @@ Launch the run.sh or run.bat according to your operating system
 Install npm
 ```
 apt update && apt install nodejs npm
-or for windows :
+```
+or on windows :
+```
 winget install openjs.nodejs
 ```
 
