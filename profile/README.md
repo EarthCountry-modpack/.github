@@ -56,7 +56,7 @@ You'll need either gitgui or replace git steps by downloading yourself the repo
 ### For the server :
 Install Java JDK 17
 ```
-apt update && apt install openjdk-17-jdk openjdk-17-jre
+sudo apt update && apt install openjdk-17-jdk openjdk-17-jre
 ```
 or on windows :
 ```
@@ -77,7 +77,7 @@ Launch the run.sh or run.bat according to your operating system
 
 Install npm
 ```
-apt update && apt install nodejs npm
+sudo apt update && apt install nodejs npm
 ```
 or on windows :
 ```
