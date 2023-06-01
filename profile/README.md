@@ -103,6 +103,8 @@ Install dependencies
   npm i
 ```
 
+Change the token by your bot token and edit the config file to match your needs (see the readme in the repo)
+
 Start the bot
 
 ```bash
