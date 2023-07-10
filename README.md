@@ -41,6 +41,10 @@ No dates are given but you can expect it to release just before January 2024
 
 [MIT](https://choosealicense.com/licenses/mit/) (ReactionRole bot)
 
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html) (ServerStatus bot)
+
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) (SupportTicket bot)
+
 ## Roadmap
 
 - Custom crafts
