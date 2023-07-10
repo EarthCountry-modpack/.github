@@ -53,7 +53,6 @@ No dates are given but you can expect it to release just before January 2024
 - Questbook
 - Guidebook
 - Wiki
-- Discord Status bot
 - New machineries
 
 .
