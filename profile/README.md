@@ -10,10 +10,14 @@ Today, it's the same as before, but updated to 1.18.2 for the V2.4, named Aether
 
  - Lights for his ideas and co-founding
  - You that awaits the release
- - Every forge mod creators in 1.16 (V1) and 1.18 (v2.4)
+ - Every Forge and former Forge mod creators in 1.16 (V1) and 1.18 (v2.4)
  - [Forge team](https://files.minecraftforge.net/) for their modloader
  - [Mojang, Notch and Microsoft](https://www.minecraft.net/) for Minecraft as a whole
+ - [Crafty Controller](https://wiki.craftycontrol.com/en/4/) for the easy gui setup server and monitoring
  - [NKN1396](https://github.com/NKN1396/Discord-EmojiToRole) for it's Reaction Role bot
+ - [jagrosh](https://github.com/jagrosh/MusicBot) for it's Music bot
+ - [Arisamiga](https://github.com/Arisamiga/Discord-Ticket-Bot) for it's Support Ticket bot
+ - [PetyXbron](https://github.com/PetyXbron/minecraft-bot) for it's Server Status bot
 
 ## Authors
 
@@ -72,8 +76,14 @@ Clone the project
 
 Launch the run.sh or run.bat according to your operating system
 
+Alternatively you can see Crafty Controller to also have a webpage to administrate the server.
+[Crafty Controller](https://wiki.craftycontrol.com/en/4/)
+
 .
 ### For the discord bots :
+
+The music bot uses, for the time being, JMusicBot from jagrosh. Go see it on his page.
+[JMusic Bot by jagrosh](https://github.com/jagrosh/MusicBot)
 
 Install npm
 ```
@@ -103,7 +113,7 @@ Install dependencies
   npm i
 ```
 
-Change the token by your bot token and edit the config file to match your needs (see the readme in the repo)
+Change the token by your bot token and edit the config file to match your needs (see the readme in the corresponding repo)
 
 Start the bot
 
