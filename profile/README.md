@@ -3,14 +3,14 @@
 
 EarthCountry is a multiplayer modpack for Minecraft created to play with our friends on a pseudo-political server It was tech based and the server was hosted with an Earth terrain recreation map (EarthCountry V1)
 
-Today, it's the same as before, but updated to 1.18.2 for the V2.4, named Aetheria Politics, is now with mod modifications (through KubeJS and recipe manipulation inside the .jar when necessary)
+Today, it's the same as before, but updated to 1.19.2 for the V2.5, named Aetheria Politics, is now with mod modifications (through KubeJS and recipe manipulation inside the .jar when necessary)
 
 
 ## Acknowledgements
 
  - Lights for his ideas and co-founding
  - You that awaits the release
- - Every Forge and former Forge mod creators in 1.16 (V1) and 1.18 (v2.4)
+ - Every Forge and former Forge mod creators in 1.16 (V1) and 1.19.2 (v2.5)
  - [Forge team](https://files.minecraftforge.net/) for their modloader
  - [Mojang, Notch and Microsoft](https://www.minecraft.net/) for Minecraft as a whole
  - [Crafty Controller](https://wiki.craftycontrol.com/en/4/) for the easy gui setup server and monitoring
@@ -28,7 +28,7 @@ Today, it's the same as before, but updated to 1.18.2 for the V2.4, named Aether
 
 #### What will be the release/server date ?
 
-No dates are given but you can expect it to release just before January 2024
+No dates are given but you can expect it to release just before January 2025
 
 #### 
 
