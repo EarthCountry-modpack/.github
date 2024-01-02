@@ -22,7 +22,7 @@ Today, it's the same as before, but updated to 1.19.2 for the V2.5, named Aether
 ## Authors
 
 - [@Nikki Devil](https://github.com/nikki-devil)
-- @Lights (no socials)
+- [@TheLightyy](https://github.com/TheLightyy)
 
 ## FAQ
 
