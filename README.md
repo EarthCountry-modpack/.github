@@ -5,6 +5,7 @@ EarthCountry is a multiplayer modpack for Minecraft created to play with our fri
 
 Today, it's the same as before, but updated to 1.19.2 for the V2.5, named Aetheria Politics, is now with mod modifications (through KubeJS and recipe manipulation inside the .jar when necessary)
 
+![PackVersion](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FEarthCountry-modpack%2FMinecraft-Instance-Files%2FDev%2FV&query=%24.Version&label=PackVersion%20&color=)
 
 ## Acknowledgements
 
