@@ -29,7 +29,7 @@ Today, it's the same as before, but updated to 1.19.2 for the V2.5, named Aether
 
 #### What will be the release/server date ?
 
-No dates are given but you can expect it to release just before January 2025
+No dates are given but you can expect it to release just before January 2026
 
 #### 
 
